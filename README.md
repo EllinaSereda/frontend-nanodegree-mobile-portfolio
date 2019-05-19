@@ -1,2 +1,2 @@
 ## Ellina Sereda  
-https://EllinaSereda/frontend-nanodegree-mobile-portfolio/
+https://EllinaSereda.github.io/frontend-nanodegree-mobile-portfolio/
